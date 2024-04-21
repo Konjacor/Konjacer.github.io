@@ -369,11 +369,11 @@
     
     
     
-    <category term="SpringCloud" scheme="https://konjacor.github.io/tags/SpringCloud/"/>
-    
     <category term="SpringBoot" scheme="https://konjacor.github.io/tags/SpringBoot/"/>
     
     <category term="SpringMVC" scheme="https://konjacor.github.io/tags/SpringMVC/"/>
+    
+    <category term="SpringCloud" scheme="https://konjacor.github.io/tags/SpringCloud/"/>
     
     <category term="商城" scheme="https://konjacor.github.io/tags/%E5%95%86%E5%9F%8E/"/>
     
