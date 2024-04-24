@@ -6,7 +6,7 @@
   <link href="https://konjacor.github.io/atom.xml" rel="self"/>
   
   <link href="https://konjacor.github.io/"/>
-  <updated>2024-03-17T13:38:18.388Z</updated>
+  <updated>2024-04-23T15:20:13.244Z</updated>
   <id>https://konjacor.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>舸斋心法</title>
+    <link href="https://konjacor.github.io/2024/04/23/%E8%88%B8%E6%96%8B%E5%BF%83%E6%B3%95/"/>
+    <id>https://konjacor.github.io/2024/04/23/%E8%88%B8%E6%96%8B%E5%BF%83%E6%B3%95/</id>
+    <published>2024-04-23T15:20:13.000Z</published>
+    <updated>2024-04-23T15:20:13.244Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>离散数学</title>
@@ -369,11 +382,11 @@
     
     
     
+    <category term="SpringBoot" scheme="https://konjacor.github.io/tags/SpringBoot/"/>
+    
     <category term="SpringCloud" scheme="https://konjacor.github.io/tags/SpringCloud/"/>
     
     <category term="SpringMVC" scheme="https://konjacor.github.io/tags/SpringMVC/"/>
-    
-    <category term="SpringBoot" scheme="https://konjacor.github.io/tags/SpringBoot/"/>
     
     <category term="商城" scheme="https://konjacor.github.io/tags/%E5%95%86%E5%9F%8E/"/>
     
@@ -483,31 +496,6 @@
     <category term="JUC工具类" scheme="https://konjacor.github.io/tags/JUC%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
     
     <category term="并发编程" scheme="https://konjacor.github.io/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JVM</title>
-    <link href="https://konjacor.github.io/2022/12/07/JVM/"/>
-    <id>https://konjacor.github.io/2022/12/07/JVM/</id>
-    <published>2022-12-07T08:22:17.000Z</published>
-    <updated>2022-12-20T12:11:43.196Z</updated>
-    
-    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"/>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;/&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="JVM" scheme="https://konjacor.github.io/tags/JVM/"/>
-    
-    <category term="Java虚拟机" scheme="https://konjacor.github.io/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
   </entry>
   
