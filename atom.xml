@@ -382,9 +382,9 @@
     
     
     
-    <category term="SpringBoot" scheme="https://konjacor.github.io/tags/SpringBoot/"/>
-    
     <category term="SpringCloud" scheme="https://konjacor.github.io/tags/SpringCloud/"/>
+    
+    <category term="SpringBoot" scheme="https://konjacor.github.io/tags/SpringBoot/"/>
     
     <category term="SpringMVC" scheme="https://konjacor.github.io/tags/SpringMVC/"/>
     
